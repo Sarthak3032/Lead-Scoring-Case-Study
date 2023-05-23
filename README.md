@@ -14,9 +14,9 @@ The steps are broadly:
 6.	Making Predictions on the Test Set
 
 Details of files given
-•	Lead Score Case Study : The python file showing coding and data analysis
-•	Assignment Subjective Questions.pdf : Some subjective questions answered
-•	Lead Score Case Study.pdf : Final Presentation
-•	Leads.csv : Data worked on
-•	Leads Data Dictionary.xlsx : Data Dictionary
-•	Summary.pdf : Summary on what's done in the entire py file
+1.	Lead Score Case Study : The python file showing coding and data analysis
+2.	Assignment Subjective Questions.pdf : Some subjective questions answered
+3.	Lead Score Case Study.pdf : Final Presentation
+4.	Leads.csv : Data worked on
+5.	Leads Data Dictionary.xlsx : Data Dictionary
+6.	Summary.pdf : Summary on what's done in the entire py file
