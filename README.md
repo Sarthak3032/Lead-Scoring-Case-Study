@@ -16,7 +16,7 @@ The steps are broadly:
 Details of files given
 1.	Lead Score Case Study : The python file showing coding and data analysis
 2.	Assignment Subjective Questions.pdf : Some subjective questions answered
-3.	Lead Score Case Study.pdf : Final Presentation
+3.	Lead Score Case Study.pptx : Final Presentation
 4.	Leads.csv : Data worked on
 5.	Leads Data Dictionary.xlsx : Data Dictionary
 6.	Summary.pdf : Summary on what's done in the entire py file
